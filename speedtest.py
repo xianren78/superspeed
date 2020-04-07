@@ -1246,10 +1246,10 @@ class Speedtest(object):
                     )
 
         urls = [
-            '://www.speedtest.net/speedtest-servers-static.php',
-            'http://c.speedtest.net/speedtest-servers-static.php',
-            '://www.speedtest.net/speedtest-servers.php',
-            'http://c.speedtest.net/speedtest-servers.php',
+            '://github.com/xianren78/superspeed/raw/master/speedtest-servers-static.php',
+            'https://github.com/xianren78/superspeed/raw/master/speedtest-servers-static.php',
+            '://github.com/xianren78/superspeed/raw/master/speedtest-servers.php',
+            'https://github.com/xianren78/superspeed/raw/master/speedtest-servers.php',
         ]
 
         headers = {}
